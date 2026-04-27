@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TU_USUARIO/music-platform.git
+    repoURL: https://github.com/OmarDePiscis/Musica.git
     targetRevision: HEAD
     path: overlays/dev
   destination:
