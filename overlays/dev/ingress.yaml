@@ -3,6 +3,7 @@ kind: Ingress
 metadata:
   name: navidrome
 spec:
+  ingressClassName: traefik
   rules:
     - host: music.local
       http:
